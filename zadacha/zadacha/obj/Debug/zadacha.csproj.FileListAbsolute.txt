@@ -1,0 +1,7 @@
+C:\Users\MEGA\Desktop\zadacha\zadacha\bin\Debug\zadacha.exe.config
+C:\Users\MEGA\Desktop\zadacha\zadacha\bin\Debug\zadacha.exe
+C:\Users\MEGA\Desktop\zadacha\zadacha\bin\Debug\zadacha.pdb
+C:\Users\MEGA\Desktop\zadacha\zadacha\obj\Debug\zadacha.csproj.AssemblyReference.cache
+C:\Users\MEGA\Desktop\zadacha\zadacha\obj\Debug\zadacha.csproj.CoreCompileInputs.cache
+C:\Users\MEGA\Desktop\zadacha\zadacha\obj\Debug\zadacha.exe
+C:\Users\MEGA\Desktop\zadacha\zadacha\obj\Debug\zadacha.pdb
